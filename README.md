@@ -99,7 +99,7 @@ Improve coding skills with these 70 challenges. Many other LeetCode problems are
 - Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
 - Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
 
-## Binary
+## Bonus: Binary
 
 - Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
 - Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
