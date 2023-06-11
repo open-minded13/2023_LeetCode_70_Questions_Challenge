@@ -1,7 +1,7 @@
 # Time complexity: O(N);
 # Space Complexity: O(N);
-# Overall, the time complexity of this solution is O(n) since it only iterates over the input vector once.
-# The space complexity is also O(n) since the unordered_map can store up to all elements of the input vector.
+# Overall, the time complexity of this solution is O(n) since it only iterates over the input list once.
+# The space complexity is also O(n) since the dictionary mp can store up to all elements of the input vector.
 
 
 class Solution:
