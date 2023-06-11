@@ -103,7 +103,7 @@ Goal: To achieve the review of the application of the following data structures 
 - Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
 - Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
 
-## Bonus: Binary
+## 10. Bonus: Binary
 
 - Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
 - Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
