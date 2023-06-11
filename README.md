@@ -14,14 +14,6 @@ Improve coding skills with these 70 challenges. Many other LeetCode problems are
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
-## Binary
-
-- Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
-- Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
-- Counting Bits - https://leetcode.com/problems/counting-bits/
-- Missing Number - https://leetcode.com/problems/missing-number/
-- Reverse Bits - https://leetcode.com/problems/reverse-bits/
-
 ## Dynamic Programming
 
 - Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
@@ -106,3 +98,11 @@ Improve coding skills with these 70 challenges. Many other LeetCode problems are
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
 - Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
+
+## Binary
+
+- Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
+- Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
+- Counting Bits - https://leetcode.com/problems/counting-bits/
+- Missing Number - https://leetcode.com/problems/missing-number/
+- Reverse Bits - https://leetcode.com/problems/reverse-bits/
