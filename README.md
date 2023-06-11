@@ -110,3 +110,7 @@ Goal: To achieve the review of the application of the following data structures 
 - Counting Bits - https://leetcode.com/problems/counting-bits/
 - Missing Number - https://leetcode.com/problems/missing-number/
 - Reverse Bits - https://leetcode.com/problems/reverse-bits/
+
+## Acknowledge
+
+Thanks to the enthusiastic netizens on the blind website for sorting out: [New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU).
