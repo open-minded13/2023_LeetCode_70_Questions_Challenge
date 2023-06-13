@@ -1,9 +1,13 @@
+from collections import defaultdict
+
+
 class Solution:
     def threeSum(self, nums):
         positive_dict = defaultdict(int)
         negative_dict = defaultdict(int)
         zeros = 0
 
+        # Read the data
         for num in nums:
             if num > 0:
                 positive_dict[num] += 1
@@ -12,31 +16,39 @@ class Solution:
             else:
                 zeros += 1
 
+        # Analyze the data
         result = []
 
-        # [0, 0, 0]
+        # For [0, 0, 0]
         if zeros >= 3:
             result.append([0, 0, 0])
 
-        # [0, positive, negative]
+        # For [0, positive, negative]
         if zeros >= 1:
             for num in positive_dict:
                 if -num in negative_dict:
                     result.append([-num, 0, num])
 
-        # [positive_1, positive_2, negative] and [negative_1, negative_2, positive]
-        for dict1, dict2 in (
+        # For [positive_1, positive_2, negative] and [negative_1, negative_2, positive]
+        for dict_1, dict_2 in (
             (positive_dict, negative_dict),
             (negative_dict, positive_dict),
         ):
-            dict1_list = list(dict1.items())
-            for index, (num_1, count_of_num_1) in enumerate(dict1_list):
-                for num_2, count_of_num_2 in dict1_list[index:]:
+            list_of_dict_1 = list(dict_1.items())
+            for index, (num_1, count_of_num_1) in enumerate(list_of_dict_1):
+                for num_2, count_of_num_2 in list_of_dict_1[index:]:
                     if num_1 == num_2 and count_of_num_1 > 1:
-                        if -(2 * num_1) in dict2:
+                        if -2 * num_1 in dict_2:
                             result.append([num_1, num_1, -2 * num_1])
                     if num_1 != num_2:
-                        if -(num_1 + num_2) in dict2:
+                        if -(num_1 + num_2) in dict_2:
                             result.append([num_1, num_2, -(num_1 + num_2)])
 
         return result
+
+
+# Testing the solution
+nums = [-1, 0, 1, 2, -1, -4]
+solution = Solution()
+result = solution.threeSum(nums)
+print(result)
