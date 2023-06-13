@@ -28,8 +28,21 @@ else:
 # In Python, the my_dict.items() method returns a view object that
 # contains the key-value pairs of the dictionary my_dict.
 # This view object can be used to iterate over the keys and values of the dictionary.
-for key, value in my_dict.items():
+# NOTE: Though the parentheses are not strictly necessary when unpacking the tuples, 
+#       they can be added for clarity and readability.
+for (key, value) in my_dict.items():
     print(key, ":", value)
+
+# NOTE: The parentheses are strictly necessary here —— (key, value)
+#       The enumerate() function is used to add an index to each iteration. 
+#       When you use enumerate(my_dict.items()), 
+#       the enumerate() function generates pairs of indices and tuples, 
+#       where each tuple contains a key-value pair from my_dict.items().
+#       To correctly unpack the pairs of indices and tuples, 
+#       you need to provide the parentheses (key, value) 
+#       to specify the structure of the elements in each iteration. 
+for index, (key, value) in enumerate(my_dict.items()):
+    print("Test:", index, key, value)
 
 # Get a list of keys
 keys = list(my_dict.keys())
