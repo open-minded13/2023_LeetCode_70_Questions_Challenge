@@ -28,19 +28,19 @@ else:
 # In Python, the my_dict.items() method returns a view object that
 # contains the key-value pairs of the dictionary my_dict.
 # This view object can be used to iterate over the keys and values of the dictionary.
-# NOTE: Though the parentheses are not strictly necessary when unpacking the tuples, 
+# NOTE: Though the parentheses are not strictly necessary when unpacking the tuples,
 #       they can be added for clarity and readability.
-for (key, value) in my_dict.items():
+for key, value in my_dict.items():
     print(key, ":", value)
 
 # NOTE: The parentheses are strictly necessary here —— (key, value)
-#       The enumerate() function is used to add an index to each iteration. 
-#       When you use enumerate(my_dict.items()), 
-#       the enumerate() function generates pairs of indices and tuples, 
+#       The enumerate() function is used to add an index to each iteration.
+#       When you use enumerate(my_dict.items()),
+#       the enumerate() function generates pairs of indices and tuples,
 #       where each tuple contains a key-value pair from my_dict.items().
-#       To correctly unpack the pairs of indices and tuples, 
-#       you need to provide the parentheses (key, value) 
-#       to specify the structure of the elements in each iteration. 
+#       To correctly unpack the pairs of indices and tuples,
+#       you need to provide the parentheses (key, value)
+#       to specify the structure of the elements in each iteration.
 for index, (key, value) in enumerate(my_dict.items()):
     print("Test:", index, key, value)
 
@@ -63,3 +63,46 @@ apple_count = my_dict.pop("apple")  # apple's value pop and store into apple_cou
 print("apple_count:", apple_count)
 if "apple" not in my_dict:
     print("apple is not in my_dict")
+
+
+# [Practice Makes You a Pro!]
+
+# Create an empty dictionary
+
+
+# Add/Update key-value pairs to the dictionary
+
+# Another way to add and update values:
+
+
+# Access values using keys
+
+# Use the get() method to access a value with a fallback
+
+# Check if a key exists in the dictionary
+
+
+# Iterate over the keys and values in the dictionary
+# In Python, the my_dict.items() method returns a view object that
+# contains the key-value pairs of the dictionary my_dict.
+# This view object can be used to iterate over the keys and values of the dictionary.
+# NOTE: Though the parentheses are not strictly necessary when unpacking the tuples,
+#       they can be added for clarity and readability.
+
+# NOTE: The parentheses are strictly necessary here —— (key, value)
+#       The enumerate() function is used to add an index to each iteration.
+#       When you use enumerate(my_dict.items()),
+#       the enumerate() function generates pairs of indices and tuples,
+#       where each tuple contains a key-value pair from my_dict.items().
+#       To correctly unpack the pairs of indices and tuples,
+#       you need to provide the parentheses (key, value)
+#       to specify the structure of the elements in each iteration.
+
+# Get a list of keys
+
+# Get a list of values
+
+
+# Remove key-value pairs:
+
+# Remove a key-value pair using pop()
