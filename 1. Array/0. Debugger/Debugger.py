@@ -1,33 +1,42 @@
 class Solution:
-    def search(self, nums, target):
-        left = 0
-        right = len(nums) - 1
+    def threeSum(self, nums):
+        positive_dict = defaultdict(int)
+        negative_dict = defaultdict(int)
+        zeros = 0
 
-        while left <= right:
-            pivot = left + (right - left) // 2
-
-            if target == nums[pivot]:
-                return pivot
-
-            if nums[left] <= nums[pivot]:
-                if nums[left] <= target and target < nums[pivot]:
-                    right = pivot - 1
-                else:
-                    left = pivot + 1
+        for num in nums:
+            if num > 0:
+                positive_dict[num] += 1
+            elif num < 0:
+                negative_dict[num] += 1
             else:
-                if nums[right] >= target and target > nums[pivot]:
-                    left = pivot + 1
-                else:
-                    right = pivot - 1
+                zeros += 1
 
-        return -1
+        result = []
 
+        # [0, 0, 0]
+        if zeros >= 3:
+            result.append([0, 0, 0])
 
-solution = Solution()
-nums = [4, 5, 6, 7, 0, 1, 2]
-target = 0
-index = solution.search(nums, target)
-if index != -1:
-    print(f"Target {target} found at index {index}")
-else:
-    print(f"Target {target} not found in the array.")
+        # [0, positive, negative]
+        if zeros >= 1:
+            for num in positive_dict:
+                if -num in negative_dict:
+                    result.append([-num, 0, num])
+
+        # [positive_1, positive_2, negative] and [negative_1, negative_2, positive]
+        for dict1, dict2 in (
+            (positive_dict, negative_dict),
+            (negative_dict, positive_dict),
+        ):
+            dict1_list = list(dict1.items())
+            for index, (num_1, count_of_num_1) in enumerate(dict1_list):
+                for num_2, count_of_num_2 in dict1_list[index:]:
+                    if num_1 == num_2 and count_of_num_1 > 1:
+                        if -(2 * num_1) in dict2:
+                            result.append([num_1, num_1, -2 * num_1])
+                    if num_1 != num_2:
+                        if -(num_1 + num_2) in dict2:
+                            result.append([num_1, num_2, -(num_1 + num_2)])
+
+        return result
