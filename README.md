@@ -10,7 +10,7 @@ Goal: To achieve the review of the application of the following data structures 
 - [Easy 1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [Easy 121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Easy 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [Medium 11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [Medium 11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Algo: Two-Pointer Technique
 - [Medium 15. 3Sum](https://leetcode.com/problems/3sum/) | Algo: Two-Pointer Technique and Dictionary (Hashmap); DS: Hashing
 - [Medium 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Algo: Binary Search Algorithm, which follows the divide and conquer approach.
 - [Medium 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Algo: Kadane's Algo
