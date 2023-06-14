@@ -20,45 +20,45 @@ Goal: To achieve the review of the application of the following data structures 
 
 ## 2. Dynamic Programming
 
-- [] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [] [Coin Change](https://leetcode.com/problems/coin-change/)
-- [] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-- [] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
-- [] [Word Break Problem](https://leetcode.com/problems/word-break/)
-- [] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
-- [] [House Robber](https://leetcode.com/problems/house-robber/)
-- [] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
-- [] [Decode Ways](https://leetcode.com/problems/decode-ways/)
-- [] [Unique Paths](https://leetcode.com/problems/unique-paths/)
-- [] [Jump Game](https://leetcode.com/problems/jump-game/)
+- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+- [ ] [Word Break Problem](https://leetcode.com/problems/word-break/)
+- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
+- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
+- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
+- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
 
 ## 3. Graph
 
-- [] [Clone Graph](https://leetcode.com/problems/clone-graph/)
-- [] [Course Schedule](https://leetcode.com/problems/course-schedule/)
-- [] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
-- [] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
-- [] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [] [Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/alien-dictionary/)
-- [] [Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graph-valid-tree/)
-- [] [Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+- [  ] [Clone Graph](https://leetcode.com/problems/clone-graph/)
+- [  ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [  ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+- [  ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [  ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [  ] [Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/alien-dictionary/)
+- [  ] [Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graph-valid-tree/)
+- [  ] [Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 
 ## 4. Interval
 
-- [] [Insert Interval](https://leetcode.com/problems/insert-interval/)
-- [] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-- [] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
-- [] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
-- [] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/)
+- [  ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [  ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [  ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+- [  ] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
+- [  ] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/)
 
 ## 5. Linked List
 
-- [] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
-- [] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [] [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
+- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ## 6. Matrix
 
