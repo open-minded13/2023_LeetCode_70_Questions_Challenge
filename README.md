@@ -53,12 +53,12 @@ Goal: To achieve the review of the application of the following data structures 
 
 ## 5. Linked List
 
-- [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [ ] [Easy 21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [ ] [Easy 141. Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
+- [ ] [Easy 206. Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [ ] [Medium 19. Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [ ] [Medium 143. Reorder List](https://leetcode.com/problems/reorder-list/)
+- [ ] [Hard 23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 ## 6. Matrix
 
