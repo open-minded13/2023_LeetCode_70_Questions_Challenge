@@ -54,7 +54,7 @@ Goal: To achieve the review of the application of the following data structures 
 ## 5. Linked List
 
 - [x] [Easy 21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [Easy 141. Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
+- [x] [Easy 141. Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
 - [x] [Easy 206. Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] [Medium 19. Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [Medium 143. Reorder List](https://leetcode.com/problems/reorder-list/)
@@ -82,19 +82,19 @@ Goal: To achieve the review of the application of the following data structures 
 
 ## 8. Tree
 
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
-- [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
-- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
-- [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
-- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-- [ ] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [ ] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
-- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
+- [ ] [Easy 100. Same Tree](https://leetcode.com/problems/same-tree/)
+- [ ] [Easy 104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [ ] [Easy 226. Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [ ] [Easy 572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+- [ ] [Medium 98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+- [ ] [Medium 102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [ ] [Medium 105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [ ] [Medium 211. Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
+- [ ] [Medium 230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- [ ] [Medium 235. Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [ ] [Hard 124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [ ] [Hard 212. Word Search II](https://leetcode.com/problems/word-search-ii/)
+- [ ] [Hard 297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 ## 9. Heap
 

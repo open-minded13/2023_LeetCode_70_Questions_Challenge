@@ -26,11 +26,10 @@ class ListNode:
 #                     The worst case is it iterates through all the nodes in the linked list once.
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        if head == None:
+        if head == None or head.next == None or head.next.next == None:
             return False
-
-        fast, slow = head.next, head
-        while fast != slow:
+        slow, fast = head, head.next.next
+        while slow != fast:
             if fast.next == None or fast.next.next == None:
                 return False
             fast = fast.next.next
