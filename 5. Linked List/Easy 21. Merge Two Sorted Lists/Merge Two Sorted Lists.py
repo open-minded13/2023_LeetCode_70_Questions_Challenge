@@ -1,3 +1,11 @@
+# Time Complexity: O(N), where N is the total number of nodes in the linked list 1 and 2.
+#                  This is because the solution iterates all the nodes in the linked list.
+#
+# Space Complexity: O(1). This is because it uses a constant amount of additional space.
+#                   The method only utilizes a variable (current_result),
+#                   regardless of the size of the input linked list.
+
+
 from typing import Optional
 
 

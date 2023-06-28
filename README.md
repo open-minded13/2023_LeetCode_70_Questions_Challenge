@@ -82,7 +82,7 @@ Goal: To achieve the review of the application of the following data structures 
 
 ## 8. Tree
 
-- [ ] [Easy 100. Same Tree](https://leetcode.com/problems/same-tree/)
+- [x] [Easy 100. Same Tree](https://leetcode.com/problems/same-tree/)
 - [ ] [Easy 104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Easy 226. Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [ ] [Easy 572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
