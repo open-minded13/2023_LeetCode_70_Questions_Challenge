@@ -1,5 +1,5 @@
 # LeetCode 75 Blind Questions Challenge
-[**Blind 75**](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) is a curated list of LeetCode questions creating in 2018 that we can practice saving time in your job hunt. Improve coding skills with these 75 challenges. Many other LeetCode problems are technical mixes of these individual problems.
+[**Blind 75**](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) is a curated list of LeetCode questions created in 2018 that we can practice saving time in your job hunt. Improve coding skills with these 75 challenges. Many other LeetCode problems are technical mixes of these individual problems.
 
 [**Grind 75**](https://www.techinterviewhandbook.org/grind75/about), on the other hand, is a dynamic list of top LeetCode interview questions created by the same author in 2023. It's more up-to-date and well-chosen. We can personalize it according to our schedule, time constraints, and preferences. I practice in parallel on this [**repository**]().
 
