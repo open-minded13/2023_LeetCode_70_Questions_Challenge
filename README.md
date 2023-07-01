@@ -85,7 +85,7 @@ Goal: To achieve the review of the application of the following data structures 
 ## 8. Tree
 
 - [x] [Easy 100. Same Tree](https://leetcode.com/problems/same-tree/)
-- [ ] [Easy 104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [x] [Easy 104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Algo: Depth-First Search
 - [ ] [Easy 226. Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [ ] [Easy 572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [ ] [Medium 98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)

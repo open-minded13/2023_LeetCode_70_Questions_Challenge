@@ -1,3 +1,6 @@
+# Date of Last Practice: 1st July 2023
+
+
 # Create an empty dictionary
 my_dict = {}
 
@@ -68,7 +71,6 @@ if "apple" not in my_dict:
 # [Practice Makes You a Pro!]
 
 # Create an empty dictionary
-
 
 # Add/Update key-value pairs to the dictionary
 

@@ -1,3 +1,6 @@
+# Date of Last Practice: 1st July 2023
+
+
 class TreeNode:
     # Step 1: Create a Tree Node Class
     #         We'll start by creating a class to represent a node in the tree.
@@ -35,6 +38,17 @@ class TreeNode:
         if not self.children:
             return 0
         return 1 + max(child.tree_height() for child in self.children)
+
+    # def tree_height(self):
+    #     if not self.children:
+    #         return 0
+    #     height = 1
+    #     max_height = 1
+    #     for child in self.children:
+    #         height = height + child.tree_height()
+    #         max_height = max(max_height, height)
+    #         height = 1
+    #     return max_height
 
     # Convert a tree into a string representation (serialization).
     def serialization_of_tree(self):

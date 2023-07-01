@@ -1,3 +1,6 @@
+# Date of Last Practice: 1st July 2023
+
+
 # Create a Linked List
 class Node:
     def __init__(self, data):
