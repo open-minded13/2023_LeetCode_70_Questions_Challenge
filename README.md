@@ -1,9 +1,11 @@
 # LeetCode 75 Blind Questions Challenge
+
 [**Blind 75**](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) is a curated list of LeetCode questions created in 2018. We can practice these questions to save time in the job-finding process. Many other LeetCode problems are technical mixes of these individual problems.
 
 [**Grind 75**](https://www.techinterviewhandbook.org/grind75/about), on the other hand, is a dynamic list of top LeetCode interview questions created in 2023. It's more up-to-date and well-chosen. We can personalize it according to our schedule, time constraints, and preferences. I practice Grind 75 in parallel on this [**repository**](https://github.com/open-minded13/2023_LeetCode_Grind_75_Questions_Challenge).
 
 Goal: To achieve the review of the application of the following data structures and algorithms.
+
 - Data Structures: (1) Arrays; (2) Stacks and Queues; (3) Linked Lists; (4) Trees; (5) Graphs; (6) Sorting; (7) Hashing.
 - Algorithms: (1) Greedy Method; (2) Divide and Conquer; (3) Tree Searching Strategies; (4) Prune and Search; (5) Dynamic Programming; (6) The Theory of NP-Completeness.
 
@@ -86,7 +88,7 @@ Goal: To achieve the review of the application of the following data structures 
 
 - [x] [Easy 100. Same Tree](https://leetcode.com/problems/same-tree/)
 - [x] [Easy 104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Algo: Depth-First Search
-- [ ] [Easy 226. Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [x] [Easy 226. Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [ ] [Easy 572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [ ] [Medium 98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [ ] [Medium 102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
