@@ -11,16 +11,16 @@ Goal: To achieve the review of the application of the following data structures 
 
 ## 1. Array
 
-- [x] [Easy 1. Two Sum](https://leetcode.com/problems/two-sum/)
-- [x] [Easy 121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Easy 1. Two Sum](https://leetcode.com/problems/two-sum/) (picked in Grind 75)
+- [x] [Easy 121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (picked in Grind 75)
 - [x] [Easy 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [x] [Medium 11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Algo: Two-Pointer Technique
-- [x] [Medium 15. 3Sum](https://leetcode.com/problems/3sum/) | Algo: Two-Pointer Technique and Dictionary (Hashmap); DS: Hashing
-- [x] [Medium 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Algo: Binary Search Algorithm, which follows the divide and conquer approach.
-- [x] [Medium 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Algo: Kadane's Algo
+- [x] [Medium 11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) (picked in Grind 75) | Algo: Two-Pointer Technique
+- [x] [Medium 15. 3Sum](https://leetcode.com/problems/3sum/) (picked in Grind 75) | Algo: Two-Pointer Technique and Dictionary (Hashmap); DS: Hashing
+- [x] [Medium 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (picked in Grind 75) | Algo: Binary Search Algorithm, which follows the divide and conquer approach.
+- [x] [Medium 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (picked in Grind 75) | Algo: Kadane's Algo
 - [x] [Medium 152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Algo: Kadane's Algo
 - [x] [Medium 153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Algo: Binary Search Algorithm, which follows the divide and conquer approach.
-- [x] [Medium 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [x] [Medium 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (picked in Grind 75)
 
 ## 2. Dynamic Programming
 
@@ -57,9 +57,9 @@ Goal: To achieve the review of the application of the following data structures 
 
 ## 5. Linked List
 
-- [x] [Easy 21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [x] [Easy 141. Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) | Algo: Floyd's Cycle Finding
-- [x] [Easy 206. Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Easy 21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (picked in Grind 75)
+- [x] [Easy 141. Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) (picked in Grind 75) | Algo: Floyd's Cycle Finding
+- [x] [Easy 206. Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) (picked in Grind 75)
 - [ ] [Medium 19. Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [Medium 143. Reorder List](https://leetcode.com/problems/reorder-list/)
 - [ ] [Hard 23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
@@ -87,8 +87,8 @@ Goal: To achieve the review of the application of the following data structures 
 ## 8. Tree
 
 - [x] [Easy 100. Same Tree](https://leetcode.com/problems/same-tree/)
-- [x] [Easy 104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Algo: Depth-First Search
-- [x] [Easy 226. Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [x] [Easy 104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (picked in Grind 75) | Algo: Depth-First Search
+- [x] [Easy 226. Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) (picked in Grind 75)
 - [ ] [Easy 572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [ ] [Medium 98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [ ] [Medium 102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
