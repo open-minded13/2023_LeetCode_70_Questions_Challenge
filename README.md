@@ -113,7 +113,3 @@ Goal: To achieve the review of the application of the following data structures 
 - [ ] [Easy 191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] [Easy 268. Missing Number](https://leetcode.com/problems/missing-number/)
 - [ ] [Easy 338. Counting Bits](https://leetcode.com/problems/counting-bits/)
-
-## Acknowledge
-
-Thanks to the enthusiastic netizens on the blind website for sorting out: [New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU).
