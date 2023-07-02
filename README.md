@@ -24,34 +24,34 @@ Goal: To achieve the review of the application of the following data structures 
 
 ## 2. Dynamic Programming
 
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
-- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-- [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
-- [ ] [Word Break Problem](https://leetcode.com/problems/word-break/)
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
-- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
-- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
-- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
-- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
-- [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
+- [ ] [Easy 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [ ] [Medium 55. Jump Game](https://leetcode.com/problems/jump-game/)
+- [ ] [Medium 62. Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [ ] [Medium 91. Decode Ways](https://leetcode.com/problems/decode-ways/)
+- [ ] [Medium 139. Word Break](https://leetcode.com/problems/word-break/)
+- [ ] [Medium 198. House Robber](https://leetcode.com/problems/house-robber/)
+- [ ] [Medium 213. House Robber II](https://leetcode.com/problems/house-robber-ii/)
+- [ ] [Medium 300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [ ] [Medium 322. Coin Change](https://leetcode.com/problems/coin-change/)
+- [ ] [Medium 377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+- [ ] [Medium 1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
 ## 3. Graph
 
-- [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
-- [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
-- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [ ] [Medium 128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [ ] [Medium 133. Clone Graph](https://leetcode.com/problems/clone-graph/)
+- [ ] [Medium 200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [ ] [Medium 207. Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [ ] [Medium 417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [ ] [Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/alien-dictionary/)
 - [ ] [Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graph-valid-tree/)
 - [ ] [Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 
 ## 4. Interval
 
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-- [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+- [ ] [Medium 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [ ] [Medium 57. Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [ ] [Medium 435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
 - [ ] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/)
 
@@ -66,22 +66,22 @@ Goal: To achieve the review of the application of the following data structures 
 
 ## 6. Matrix
 
-- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-- [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-- [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
-- [ ] [Word Search](https://leetcode.com/problems/word-search/)
+- [ ] [Medium 48. Rotate Image](https://leetcode.com/problems/rotate-image/)
+- [ ] [Medium 54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [ ] [Medium 73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [ ] [Medium 79. Word Search](https://leetcode.com/problems/word-search/)
 
 ## 7. String
 
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-- [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [ ] [Medium 3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [ ] [Medium 424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [ ] [Hard 76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [ ] [Medium 242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [ ] [Medium 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [ ] [Easy 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [ ] [Easy 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [ ] [Medium 5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [ ] [Medium 647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [ ] [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/)
 
 ## 8. Tree
@@ -102,17 +102,17 @@ Goal: To achieve the review of the application of the following data structures 
 
 ## 9. Heap
 
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
-- [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [ ] [Medium 347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [ ] [Medium 295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [ ] [Hard 23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 ## 10. Bonus: Binary
 
 - [x] [Medium 371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
-- [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
-- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [ ] [Easy 190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [ ] [Easy 191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- [ ] [Easy 268. Missing Number](https://leetcode.com/problems/missing-number/)
+- [ ] [Easy 338. Counting Bits](https://leetcode.com/problems/counting-bits/)
 
 ## Acknowledge
 
