@@ -73,15 +73,15 @@ Goal: To achieve the review of the application of the following data structures 
 
 ## 7. String
 
-- [ ] [Medium 3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] [Medium 424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [ ] [Hard 76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-- [ ] [Medium 242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-- [ ] [Medium 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [ ] [Easy 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [ ] [Easy 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [ ] [Medium 3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Medium 5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [ ] [Medium 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [ ] [Medium 242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [ ] [Medium 424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ] [Medium 647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [ ] [Hard 76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/)
 
 ## 8. Tree
@@ -102,14 +102,14 @@ Goal: To achieve the review of the application of the following data structures 
 
 ## 9. Heap
 
-- [ ] [Medium 347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Medium 295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [ ] [Medium 347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Hard 23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 ## 10. Bonus: Binary
 
-- [x] [Medium 371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] [Easy 190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - [ ] [Easy 191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] [Easy 268. Missing Number](https://leetcode.com/problems/missing-number/)
 - [ ] [Easy 338. Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [x] [Medium 371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
