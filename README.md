@@ -74,7 +74,7 @@ Goal: To achieve the review of the application of the following data structures 
 ## 7. String
 
 - [x] [Easy 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (picked in Grind 75)
-- [ ] [Easy 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [x] [Easy 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (picked in Grind 75) | Algo: Regular Expressions, Two-Pointers Technique, String Manipulation
 - [ ] [Medium 3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Medium 5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] [Medium 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
