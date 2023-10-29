@@ -24,7 +24,7 @@ Goal: To achieve the review of the application of the following data structures 
 
 ## 2. Dynamic Programming
 
-- [ ] [Easy 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [x] [Easy 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) (picked in Grind 75) | Algo: Dynamic Programming
 - [ ] [Medium 55. Jump Game](https://leetcode.com/problems/jump-game/)
 - [ ] [Medium 62. Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [ ] [Medium 91. Decode Ways](https://leetcode.com/problems/decode-ways/)
@@ -95,7 +95,7 @@ Goal: To achieve the review of the application of the following data structures 
 - [ ] [Medium 105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [ ] [Medium 211. Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 - [ ] [Medium 230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-- [x] [Medium 235. Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [x] [Medium 235. Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) (picked in Grind 75)
 - [ ] [Hard 124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [ ] [Hard 212. Word Search II](https://leetcode.com/problems/word-search-ii/)
 - [ ] [Hard 297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
