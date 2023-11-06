@@ -13,7 +13,7 @@ Goal: To achieve the review of the application of the following data structures 
 
 - [x] [Easy 1. Two Sum](https://leetcode.com/problems/two-sum/) (picked in Grind 75)
 - [x] [Easy 121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (picked in Grind 75)
-- [x] [Easy 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Easy 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (picked in Grind 75)
 - [x] [Medium 11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) (picked in Grind 75) | Algo: Two-Pointer Technique
 - [x] [Medium 15. 3Sum](https://leetcode.com/problems/3sum/) (picked in Grind 75) | Algo: Two-Pointer Technique and Dictionary (Hashmap); DS: Hashing
 - [x] [Medium 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (picked in Grind 75) | Algo: Binary Search Algorithm, which follows the divide and conquer approach.
