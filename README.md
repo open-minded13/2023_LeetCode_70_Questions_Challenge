@@ -91,7 +91,7 @@ Goal: To achieve the review of the application of the following data structures 
 - [x] [Easy 226. Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) (picked in Grind 75)
 - [ ] [Easy 572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [ ] [Medium 98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-- [ ] [Medium 102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [x] [Medium 102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (picked in Grind 75) | Algo: Breadth-First Search
 - [ ] [Medium 105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [ ] [Medium 211. Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 - [ ] [Medium 230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
