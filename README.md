@@ -39,7 +39,7 @@ Goal: To achieve the review of the application of the following data structures 
 ## 3. Graph
 
 - [ ] [Medium 128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [ ] [Medium 133. Clone Graph](https://leetcode.com/problems/clone-graph/)
+- [x] [Medium 133. Clone Graph](https://leetcode.com/problems/clone-graph/) (picked in Grind 75) | Algo: Breadth-First Search
 - [ ] [Medium 200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [ ] [Medium 207. Course Schedule](https://leetcode.com/problems/course-schedule/)
 - [ ] [Medium 417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
