@@ -32,7 +32,7 @@ Goal: To achieve the review of the application of the following data structures 
 - [ ] [Medium 198. House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] [Medium 213. House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ] [Medium 300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-- [ ] [Medium 322. Coin Change](https://leetcode.com/problems/coin-change/)
+- [x] [Medium 322. Coin Change](https://leetcode.com/problems/coin-change/) (picked in Grind 75) | Algo: Dynamic Programming
 - [ ] [Medium 377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
 - [ ] [Medium 1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
