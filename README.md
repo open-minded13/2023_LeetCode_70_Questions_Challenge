@@ -49,7 +49,7 @@ Goal: To achieve the review of the application of the following data structures 
 
 ## 4. Interval
 
-- [ ] [Medium 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [x] [Medium 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) (picked in Glind 75)
 - [x] [Medium 57. Insert Interval](https://leetcode.com/problems/insert-interval/) (picked in Grind 75)
 - [ ] [Medium 435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
