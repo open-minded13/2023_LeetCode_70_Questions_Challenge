@@ -67,7 +67,7 @@ Goal: To achieve the review of the application of the following data structures 
 ## 6. Matrix
 
 - [ ] [Medium 48. Rotate Image](https://leetcode.com/problems/rotate-image/)
-- [ ] [Medium 54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [x] [Medium 54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) (picked in Grind 75)
 - [ ] [Medium 73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [ ] [Medium 79. Word Search](https://leetcode.com/problems/word-search/)
 
