@@ -28,7 +28,7 @@ Goal: To achieve the review of the application of the following data structures 
 - [ ] [Medium 55. Jump Game](https://leetcode.com/problems/jump-game/)
 - [x] [Medium 62. Unique Paths](https://leetcode.com/problems/unique-paths/) (picked in Grind 75) | Algo: Dynamic Programming
 - [ ] [Medium 91. Decode Ways](https://leetcode.com/problems/decode-ways/)
-- [ ] [Medium 139. Word Break](https://leetcode.com/problems/word-break/)
+- [x] [Medium 139. Word Break](https://leetcode.com/problems/word-break/) (picked in Grind 75) | Algo: Dynamic Programming
 - [ ] [Medium 198. House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] [Medium 213. House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ] [Medium 300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
