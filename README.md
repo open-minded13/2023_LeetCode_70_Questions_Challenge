@@ -69,7 +69,7 @@ Goal: To achieve the review of the application of the following data structures 
 - [ ] [Medium 48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [x] [Medium 54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) (picked in Grind 75)
 - [ ] [Medium 73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-- [ ] [Medium 79. Word Search](https://leetcode.com/problems/word-search/)
+- [x] [Medium 79. Word Search](https://leetcode.com/problems/word-search/) (picked in Grind 75) | Algo: Depth-First Search
 
 ## 7. String
 
