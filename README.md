@@ -62,7 +62,7 @@ Goal: To achieve the review of the application of the following data structures 
 - [x] [Easy 206. Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) (picked in Grind 75)
 - [ ] [Medium 19. Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [Medium 143. Reorder List](https://leetcode.com/problems/reorder-list/)
-- [ ] [Hard 23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [x] [Hard 23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (picked in Grind 75) | DS: Min Heap (Priority Queue)
 
 ## 6. Matrix
 
@@ -104,7 +104,7 @@ Goal: To achieve the review of the application of the following data structures 
 
 - [ ] [Medium 295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 - [ ] [Medium 347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
-- [ ] [Hard 23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [x] [Hard 23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (picked in Grind 75) | DS: Min Heap (Priority Queue)
 
 ## 10. Bonus: Binary
 
