@@ -78,10 +78,10 @@ Goal: To achieve the review of the application of the following data structures 
 - [x] [Medium 3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (picked in Grind 75) | Algo: Sliding Window Technique
 - [x] [Medium 5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) (picked in Grind 75) | Algo: Expand Around Center & Two-Pointers Techniques
 - [ ] [Medium 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [ ] [Medium 242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [x] [Medium 242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) (picked in Grind 75)
 - [ ] [Medium 424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ] [Medium 647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
-- [ ] [Hard 76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [x] [Hard 76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) (picked in Grind 75) | Algo: Sliding Window; DS: Hash Table
 - [ ] [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/)
 
 ## 8. Tree
