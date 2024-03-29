@@ -102,7 +102,7 @@ Goal: To achieve the review of the application of the following data structures 
 
 ## 9. Heap
 
-- [ ] [Medium 295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [x] [Medium 295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) (picked in Grind 75) | DS: Min & Max Heaps (Priority Queue)
 - [ ] [Medium 347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [x] [Hard 23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (picked in Grind 75) | DS: Min Heap (Priority Queue)
 
