@@ -98,7 +98,7 @@ Goal: To achieve the review of the application of the following data structures 
 - [x] [Medium 235. Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) (picked in Grind 75)
 - [ ] [Hard 124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [ ] [Hard 212. Word Search II](https://leetcode.com/problems/word-search-ii/)
-- [ ] [Hard 297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- [x] [Hard 297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) (picked in Grind 75) | Algo: Breadth-First Search; DS: Queue
 
 ## 9. Heap
 
