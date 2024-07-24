@@ -1,4 +1,4 @@
-# LeetCode 75 Blind Questions Challenge
+# LeetCode Blind 75 Challenges with Solutions
 
 [**Blind 75**](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) is a curated list of LeetCode questions created in 2018. We can practice these questions to save time in the job-finding process. Many other LeetCode problems are technical mixes of these individual problems.
 
@@ -8,6 +8,11 @@ Goal: To achieve the review of the application of the following data structures 
 
 - Data Structures: (1) Arrays; (2) Stacks and Queues; (3) Linked Lists; (4) Trees; (5) Graphs; (6) Sorting; (7) Hashing.
 - Algorithms: (1) Greedy Method; (2) Divide and Conquer; (3) Tree Searching Strategies; (4) Prune and Search; (5) Dynamic Programming; (6) The Theory of NP-Completeness.
+
+## Project Timeline
+
+- **Start Date**: Mar 26, 2023
+- **Completion Date**: Ongoing 🧙
 
 ## 1. Array
 
