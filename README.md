@@ -1,6 +1,6 @@
 # LeetCode Blind 75 Challenges with Solutions
 
-If you find this repository helpful, please give me a star to inspire me to keep it updated and benefit more people. Thank you! 🌟
+> If you find this repository helpful, please give me a star to inspire me to keep it updated and benefit more people. Thank you! 🌟
 
 [**Blind 75**](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) is a curated list of LeetCode questions created in 2018. We can practice these questions to save time in the job-finding process. Many other LeetCode problems are technical mixes of these individual problems.
 
