@@ -116,7 +116,7 @@ Goal: To achieve the review of the application of the following data structures 
 ## 10. Bonus: Binary
 
 - [ ] [Easy 190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
-- [ ] [Easy 191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- [x] [Easy 191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] [Easy 268. Missing Number](https://leetcode.com/problems/missing-number/)
 - [ ] [Easy 338. Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [x] [Medium 371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
