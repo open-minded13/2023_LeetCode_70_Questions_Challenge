@@ -38,7 +38,7 @@ Goal: To achieve the review of the application of the following data structures 
 - [x] [Medium 139. Word Break](https://leetcode.com/problems/word-break/) (picked in Grind 75) | Algo: Dynamic Programming
 - [ ] [Medium 198. House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] [Medium 213. House Robber II](https://leetcode.com/problems/house-robber-ii/)
-- [ ] [Medium 300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [x] [Medium 300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (picked in Grind 169) | Algo: Dynamic Programming & Binary Search
 - [x] [Medium 322. Coin Change](https://leetcode.com/problems/coin-change/) (picked in Grind 75) | Algo: Dynamic Programming
 - [ ] [Medium 377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
 - [ ] [Medium 1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
