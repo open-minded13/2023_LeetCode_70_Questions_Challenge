@@ -36,7 +36,7 @@ Goal: To achieve the review of the application of the following data structures 
 - [x] [Medium 62. Unique Paths](https://leetcode.com/problems/unique-paths/) (picked in Grind 75) | Algo: Dynamic Programming
 - [ ] [Medium 91. Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [x] [Medium 139. Word Break](https://leetcode.com/problems/word-break/) (picked in Grind 75) | Algo: Dynamic Programming
-- [ ] [Medium 198. House Robber](https://leetcode.com/problems/house-robber/)
+- [x] [Medium 198. House Robber](https://leetcode.com/problems/house-robber/) (picked in Grind 169) | Algo: Dynamic Programming
 - [ ] [Medium 213. House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [x] [Medium 300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (picked in Grind 169) | Algo: Dynamic Programming & Binary Search
 - [x] [Medium 322. Coin Change](https://leetcode.com/problems/coin-change/) (picked in Grind 75) | Algo: Dynamic Programming
@@ -118,5 +118,5 @@ Goal: To achieve the review of the application of the following data structures 
 - [ ] [Easy 190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - [x] [Easy 191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) (picked in Grind 169) | Algo: Bit Manipulation
 - [ ] [Easy 268. Missing Number](https://leetcode.com/problems/missing-number/)
-- [x] [Easy 338. Counting Bits](https://leetcode.com/problems/counting-bits/description/) | Algo: Dynamic Programming (Bit Manipulation)
+- [x] [Easy 338. Counting Bits](https://leetcode.com/problems/counting-bits/description/) (picked in Grind 169) | Algo: Dynamic Programming (Bit Manipulation)
 - [x] [Medium 371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
