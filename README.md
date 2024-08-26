@@ -67,7 +67,7 @@ Goal: To achieve the review of the application of the following data structures 
 - [x] [Easy 21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (picked in Grind 75)
 - [x] [Easy 141. Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) (picked in Grind 75) | Algo: Floyd's Cycle Finding
 - [x] [Easy 206. Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) (picked in Grind 75)
-- [ ] [Medium 19. Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [x] [Medium 19. Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) (picked in Grind 169) | Algo: Two-Pointers Technique (Fast & Slow Pointers)
 - [ ] [Medium 143. Reorder List](https://leetcode.com/problems/reorder-list/)
 - [x] [Hard 23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (picked in Grind 75) | DS: Min Heap (Priority Queue)
 
