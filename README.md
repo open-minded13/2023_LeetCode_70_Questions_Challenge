@@ -25,7 +25,7 @@ Goal: To achieve the review of the application of the following data structures 
 - [x] [Medium 15. 3Sum](https://leetcode.com/problems/3sum/) (picked in Grind 75) | Algo: Two-Pointer Technique and Dictionary (Hashmap); DS: Hashing
 - [x] [Medium 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (picked in Grind 75) | Algo: Binary Search Algorithm, which follows the divide and conquer approach.
 - [x] [Medium 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (picked in Grind 75) | Algo: Kadane's Algo
-- [x] [Medium 152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Algo: Kadane's Algo
+- [x] [Medium 152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) (picked in Grind 169) | Algo: Dynamic Programming
 - [x] [Medium 153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Algo: Binary Search Algorithm, which follows the divide and conquer approach.
 - [x] [Medium 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (picked in Grind 75)
 
