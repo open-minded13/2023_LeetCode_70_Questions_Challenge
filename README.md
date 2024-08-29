@@ -117,6 +117,6 @@ Goal: To achieve the review of the application of the following data structures 
 
 - [ ] [Easy 190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - [x] [Easy 191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) (picked in Grind 169) | Algo: Bit Manipulation
-- [ ] [Easy 268. Missing Number](https://leetcode.com/problems/missing-number/)
+- [x] [Easy 268. Missing Number](https://leetcode.com/problems/missing-number/) (picked in Grind 169) | Algo: Bit Manipulation (XOR)
 - [x] [Easy 338. Counting Bits](https://leetcode.com/problems/counting-bits/description/) (picked in Grind 169) | Algo: Dynamic Programming (Bit Manipulation)
 - [x] [Medium 371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
