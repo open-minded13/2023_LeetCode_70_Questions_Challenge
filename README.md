@@ -96,7 +96,7 @@ Goal: To achieve the review of the application of the following data structures 
 - [x] [Easy 100. Same Tree](https://leetcode.com/problems/same-tree/)
 - [x] [Easy 104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (picked in Grind 75) | Algo: Depth-First Search
 - [x] [Easy 226. Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) (picked in Grind 75)
-- [ ] [Easy 572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+- [x] [Easy 572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) (picked in Grind 169) | Algo: Depth-First Search
 - [x] [Medium 98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (picked in Grind 75) | Algo: Depth-First Search
 - [x] [Medium 102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (picked in Grind 75) | Algo: Breadth-First Search
 - [x] [Medium 105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (picked in Grind 75) | Algo: Preorder & Inorder Traversal
