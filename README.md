@@ -14,7 +14,7 @@ Goal: To achieve the review of the application of the following data structures 
 ## Project Timeline
 
 - **Start Date**: Mar 26, 2023
-- **Completion Date**: Ongoing 🧙
+- **Completion Date**: Ongoing 🧙🪄
 
 ## 1. Array
 
