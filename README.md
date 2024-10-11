@@ -4,7 +4,7 @@
 
 [**Blind 75**](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) is a curated list of LeetCode questions created in 2018. We can practice these questions to save time in the job-finding process. Many other LeetCode problems are technical mixes of these individual problems.
 
-[**Grind 75**](https://www.techinterviewhandbook.org/grind75/about), on the other hand, is a dynamic list of top LeetCode interview questions created in 2023. It's more up-to-date and well-chosen. We can personalize it according to our schedule, time constraints, and preferences. I practice Grind 75 in parallel on this [**repository**](https://github.com/open-minded13/2023_LeetCode_Grind_75_Questions_Challenge).
+[**Grind 75**](https://www.techinterviewhandbook.org/grind75) is a dynamic list of top LeetCode interview questions created in 2023. It's up-to-date and well-chosen, and we can personalize it according to our schedule, time constraints, and preferences. I practice Grind 75 in parallel on this [**repository**](https://github.com/open-minded13/2023_LeetCode_Grind_75_Questions_Challenge).
 
 Goal: To achieve the review of the application of the following data structures and algorithms.
 
