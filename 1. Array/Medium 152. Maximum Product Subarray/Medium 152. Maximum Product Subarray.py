@@ -1,5 +1,5 @@
 """
-A module to find the subarray with the largest product in an integer array.
+Find the subarray with the largest product in an integer array.
 
 This module defines a class `Solution` that provides two methods `maxProduct`
 to find the subarray with the largest product in an integer array. The first
@@ -11,7 +11,7 @@ correctness of both implementations.
 import sys
 from typing import List
 
-# Date of Last Practice: Aug 26, 2024
+# Date of Last Practice: Aug 26, 2024 -> Oct 25, 2024
 #
 # Time Complexity: O(N), where N is the number of elements in the given list.
 #                  The time complexity is due to the single pass through the list.
@@ -89,7 +89,7 @@ class Solution:
 
 def main():
     """
-    Main function to run test cases for the maxProduct functions.
+    Run test cases for the maxProduct functions.
 
     This function runs several assert statements to ensure the correctness of
     both the maxProduct_two_pass and maxProduct functions.
