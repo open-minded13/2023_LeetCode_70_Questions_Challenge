@@ -40,6 +40,8 @@ class Solution:
         """
         Beginner-friendly approach using dynamic programming to find the LIS.
 
+        Check: https://www.youtube.com/watch?v=4fQJGoeW5VE
+
         Args:
             nums (List[int]): A list of integers.
 
